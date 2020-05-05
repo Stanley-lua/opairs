@@ -1,0 +1,10 @@
+name: Wolf2789/opairs
+description: Ordered items iterator for tables.
+version: 0.1
+author: 
+  - email: wolf2789@gmail.com
+    name: Dawid Bugajski
+autoload:
+  - type: global
+    name: opairs
+    path: opairs.lua
